@@ -40,9 +40,7 @@ def load_data(file_path):
 data_file = "pharmacy_messy.csv"
 data = load_data(data_file)
 
-# ==========================================
-# SIDEBAR DEVELOPER PROFILE
-# ==========================================
+
 st.sidebar.title("👨‍💻 Developer Profile")
 st.sidebar.write("*Desmond Pimpong*")
 st.sidebar.caption("Data Analyst &  Developer")
@@ -51,7 +49,7 @@ st.sidebar.markdown("---")
 
 # Quick links buttons
 st.sidebar.subheader("🔗 Links & Portfolio")
-st.sidebar.link_button("📂 GitHub Repository", "https://github.com/pimpongdesmond1-dev/pharmacy-sales-dashboard")
+st.sidebar.link_button("📂 GitHub Repository", "https://Desmond-dev12/pharmacy-sales-dashboard")
 st.sidebar.link_button("💼 LinkedIn Profile", "https://linkedin.com/in/desmond-pimpong-563899433")
 
 st.sidebar.markdown("---")
