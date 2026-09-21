@@ -1,5 +1,0 @@
-# Project dependencies for Universal Data Cleaner
-streamlit
-pandas
-plotly
-openpyxl
