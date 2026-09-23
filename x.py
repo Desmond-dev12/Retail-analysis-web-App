@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import pandas as pd 
 import plotly.express as px
@@ -36,9 +37,10 @@ def load_data(file_path):
     data["total_amount"] = data["unit_price"] * data["quantity"]
     
     return data
+data_folder = r"C:\Users\DELL\Desktop\UCC CODE PROJECTS"
+file_path = os.path.join(data_folder, "pharmacy-messy.csv")
+data = load_data(file_path)
 
-data_file = "pharmacy_messy.csv"
-data = load_data(data_file)
 
 
 st.sidebar.title("👨‍💻 Developer Profile")
