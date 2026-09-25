@@ -13,10 +13,9 @@ def load_data(file_path):
     data["Date"] = pd.to_datetime(data["Date"], format="mixed")
 
     return data
-data_folder = r"C:\Users\DELL\Desktop\UCC CODE PROJECTS"
-file_path = os.path.join(data_folder, "retail_store_clean1.csv")
+file_path = "retail_store_clean1.csv")
 data = load_data(file_path)
-t.sidebar.title("👨‍💻 Developer Profile")
+st.sidebar.title("👨‍💻 Developer Profile")
 st.sidebar.write("*Desmond Pimpong*")
 st.sidebar.caption("Data Analyst &  Developer")
 
