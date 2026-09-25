@@ -1,0 +1,301 @@
+Transaction ID,Store,Customer Type,Gender,Category,Unit Price,Quantity,Total,Date,Day,Payment,Rating
+TXN-2424,West Hills Mall,Normal,Male,Electronics,81.02,3,243.06,2023-06-18,Saturday,Credit Card,8.4
+TXN-9928,West Hills Mall,Member,Male,Cosmetics,73.41,1,73.41,2023-06-23,Saturday,Cash,7.4
+TXN-6574,Kumasi City Mall,Normal,Female,Clothing,244.73,1,244.73,2023-06-14,Tuesday,Credit Card,8.6
+TXN-1711,Kumasi City Mall,Member,Male,Clothing,36.9,2,73.8,2023-05-09,Wednesday,Mobile Money,6.2
+TXN-4733,West Hills Mall,Member,Male,Cosmetics,170.09,6,1020.54,2023-01-02,Saturday,Mobile Money,7.5
+TXN-5374,Kumasi City Mall,Normal,Male,Electronics,90.61,6,543.66,2023-02-22,Wednesday,Cash,5.0
+TXN-4598,West Hills Mall,Member,Male,Stationery,164.9,4,659.6,2023-03-21,Thursday,Credit Card,5.0
+TXN-6155,West Hills Mall,Member,Male,Groceries,243.46,7,1704.22,2023-05-23,Tuesday,Cash,5.6
+TXN-8019,Accra Mall,Normal,Female,Stationery,51.43,3,154.29,2023-05-09,Friday,Mobile Money,5.5
+TXN-3621,West Hills Mall,Member,Female,Cosmetics,157.76,2,315.52,2023-01-05,Sunday,Cash,8.5
+TXN-2876,West Hills Mall,Normal,Male,Cosmetics,182.81,8,1462.48,2023-01-22,Friday,Mobile Money,7.2
+TXN-5315,West Hills Mall,Normal,Female,Furniture,42.35,7,296.45,2023-06-24,Monday,Credit Card,4.9
+TXN-9689,West Hills Mall,Normal,Male,Clothing,254.08,4,1016.32,2023-02-18,Sunday,Credit Card,4.9
+TXN-1949,Accra Mall,Member,Female,Furniture,42.44,6,254.64,2023-03-08,Sunday,Mobile Money,9.3
+TXN-5342,Accra Mall,Normal,Male,Furniture,246.65,3,739.95,2023-05-06,Thursday,Cash,4.8
+TXN-9479,West Hills Mall,Member,Female,Furniture,216.76,7,1517.32,2023-03-15,Saturday,Cash,10.0
+TXN-1964,Kumasi City Mall,Member,Male,Electronics,108.04,4,432.16,2023-01-23,Monday,Cash,7.5
+TXN-8744,Accra Mall,Member,Male,Electronics,159.11,5,795.5500000000001,2023-05-05,Tuesday,Mobile Money,8.0
+TXN-1887,Accra Mall,Member,Female,Cosmetics,38.11,7,266.77,2023-04-28,Thursday,Cash,6.1
+TXN-3296,West Hills Mall,Normal,Male,Stationery,221.18,2,442.36,2023-05-15,Tuesday,Cash,5.5
+TXN-1828,Kumasi City Mall,Member,Female,Clothing,263.6,2,527.2,2023-05-04,Sunday,Mobile Money,6.7
+TXN-3697,West Hills Mall,Member,Male,Furniture,58.23,8,465.84,2023-04-02,Sunday,Cash,6.9
+TXN-9883,Kumasi City Mall,Normal,Female,Electronics,92.72,8,741.76,2023-02-02,Wednesday,Mobile Money,4.9
+TXN-4044,Accra Mall,Member,Female,Stationery,179.41,3,538.23,2023-01-28,Friday,Cash,4.3
+TXN-7868,Accra Mall,Member,Male,Furniture,127.09,4,508.36,2023-05-03,Monday,Credit Card,7.5
+TXN-5915,West Hills Mall,Member,Female,Furniture,204.22,6,1225.32,2023-02-22,Thursday,Mobile Money,5.4
+TXN-3170,Kumasi City Mall,Normal,Male,Groceries,190.14,2,380.28,2023-05-09,Tuesday,Cash,4.4
+TXN-1128,Kumasi City Mall,Normal,Male,Electronics,55.75,5,278.75,2023-06-17,Sunday,Mobile Money,7.7
+TXN-3546,West Hills Mall,Member,Female,Furniture,282.29,3,846.8700000000001,2023-06-18,Monday,Credit Card,5.6
+TXN-7939,Kumasi City Mall,Normal,Male,Groceries,69.04,5,345.20000000000005,2023-01-03,Wednesday,Credit Card,7.0
+TXN-8007,Kumasi City Mall,Member,Male,Electronics,194.76,5,973.8,2023-05-23,Thursday,Mobile Money,5.0
+TXN-1685,West Hills Mall,Member,Male,Electronics,168.22,6,1009.3199999999999,2023-04-05,Tuesday,Cash,7.5
+TXN-3532,Kumasi City Mall,Member,Male,Groceries,207.8,2,415.6,2023-04-20,Friday,Mobile Money,6.1
+TXN-5065,Accra Mall,Member,Male,Clothing,62.01,6,372.06,2023-06-28,Thursday,Mobile Money,8.7
+TXN-4728,Kumasi City Mall,Member,Male,Clothing,258.99,4,1035.96,2023-03-10,Thursday,Mobile Money,5.2
+TXN-9346,Accra Mall,Normal,Male,Electronics,90.79,2,181.58,2023-03-21,Wednesday,Mobile Money,9.8
+TXN-8119,Kumasi City Mall,Member,Female,Stationery,264.34,5,1321.6999999999998,2023-01-04,Wednesday,Cash,5.1
+TXN-9518,Kumasi City Mall,Member,Female,Stationery,121.71,4,486.84,2023-04-01,Saturday,Mobile Money,5.5
+TXN-5920,West Hills Mall,Normal,Male,Stationery,30.29,6,181.74,2023-01-24,Saturday,Mobile Money,7.7
+TXN-3851,West Hills Mall,Normal,Female,Groceries,212.19,3,636.5699999999999,2023-04-22,Saturday,Mobile Money,5.2
+TXN-6279,West Hills Mall,Member,Female,Furniture,98.12,4,392.48,2023-05-21,Friday,Mobile Money,6.6
+TXN-6491,Kumasi City Mall,Member,Female,Cosmetics,158.24,3,474.72,2023-05-22,Wednesday,Credit Card,8.0
+TXN-2193,Accra Mall,Member,Female,Clothing,52.73,1,52.73,2023-05-28,Thursday,Cash,5.5
+TXN-2746,Kumasi City Mall,Normal,Male,Cosmetics,153.37,4,613.48,2023-01-25,Saturday,Credit Card,4.9
+TXN-8612,Kumasi City Mall,Normal,Male,Clothing,24.56,4,98.24,2023-04-05,Monday,Credit Card,9.5
+TXN-5246,West Hills Mall,Normal,Female,Furniture,250.87,8,2006.96,2023-04-15,Saturday,Mobile Money,9.4
+TXN-5451,Accra Mall,Normal,Female,Stationery,191.76,5,958.8,2023-03-08,Saturday,Credit Card,6.6
+TXN-6421,Kumasi City Mall,Member,Male,Groceries,77.07,3,231.20999999999998,2023-04-14,Monday,Cash,8.2
+TXN-7232,West Hills Mall,Member,Female,Cosmetics,251.54,7,1760.78,2023-06-01,Friday,Cash,9.4
+TXN-4613,Kumasi City Mall,Normal,Female,Electronics,257.5,7,1802.5,2023-05-26,Saturday,Mobile Money,7.2
+TXN-3704,Kumasi City Mall,Normal,Female,Clothing,18.42,6,110.52000000000001,2023-04-24,Sunday,Mobile Money,8.0
+TXN-5262,Kumasi City Mall,Member,Male,Clothing,34.34,7,240.38000000000002,2023-02-02,Thursday,Mobile Money,4.8
+TXN-2341,Kumasi City Mall,Normal,Male,Groceries,107.88,7,755.16,2023-04-09,Sunday,Mobile Money,5.7
+TXN-1333,Kumasi City Mall,Member,Male,Electronics,198.54,1,198.54,2023-02-27,Tuesday,Mobile Money,8.5
+TXN-2876,West Hills Mall,Normal,Male,Clothing,204.14,4,816.56,2023-03-06,Wednesday,Cash,6.8
+TXN-4978,Accra Mall,Member,Male,Groceries,279.38,7,1955.6599999999999,2023-02-03,Saturday,Credit Card,6.4
+TXN-2129,Accra Mall,Member,Female,Stationery,240.91,1,240.91,2023-06-12,Thursday,Credit Card,6.1
+TXN-8532,West Hills Mall,Normal,Female,Stationery,248.48,2,496.96,2023-06-27,Wednesday,Cash,6.6
+TXN-5397,West Hills Mall,Normal,Female,Clothing,188.61,8,1508.88,2023-06-19,Sunday,Cash,6.8
+TXN-1470,Kumasi City Mall,Normal,Male,Clothing,80.72,8,645.76,2023-04-11,Saturday,Mobile Money,7.4
+TXN-1166,Kumasi City Mall,Member,Male,Groceries,112.9,5,564.5,2023-06-09,Friday,Mobile Money,6.0
+TXN-8342,West Hills Mall,Normal,Male,Clothing,151.69,4,606.76,2023-06-16,Saturday,Cash,8.1
+TXN-9698,Accra Mall,Normal,Female,Electronics,210.62,5,1053.1,2023-04-18,Wednesday,Cash,8.0
+TXN-2958,Kumasi City Mall,Normal,Female,Cosmetics,88.57,5,442.84999999999997,2023-02-11,Saturday,Mobile Money,5.4
+TXN-5636,West Hills Mall,Member,Male,Furniture,224.2,5,1121.0,2023-05-20,Sunday,Cash,8.3
+TXN-1893,Accra Mall,Normal,Female,Clothing,62.04,1,62.04,2023-03-02,Tuesday,Cash,8.2
+TXN-6582,West Hills Mall,Normal,Male,Groceries,39.75,1,39.75,2023-04-15,Thursday,Credit Card,7.4
+TXN-1878,Accra Mall,Member,Female,Electronics,248.41,7,1738.87,2023-06-22,Friday,Mobile Money,7.0
+TXN-9561,Accra Mall,Member,Female,Clothing,44.35,7,310.45,2023-05-08,Sunday,Cash,7.6
+TXN-4404,Kumasi City Mall,Normal,Female,Cosmetics,98.56,1,98.56,2023-01-25,Saturday,Mobile Money,7.7
+TXN-8381,West Hills Mall,Member,Female,Clothing,55.55,3,166.64999999999998,2023-01-14,Tuesday,Credit Card,7.3
+TXN-4824,West Hills Mall,Member,Female,Furniture,77.13,5,385.65,2023-01-22,Thursday,Mobile Money,8.2
+TXN-1977,Kumasi City Mall,Member,Male,Stationery,167.92,3,503.76,2023-02-03,Sunday,Mobile Money,9.5
+TXN-9090,Accra Mall,Member,Female,Groceries,145.92,5,729.5999999999999,2023-05-18,Wednesday,Mobile Money,8.2
+TXN-1339,Kumasi City Mall,Normal,Male,Electronics,185.08,1,185.08,2023-05-19,Saturday,Mobile Money,4.5
+TXN-9056,West Hills Mall,Normal,Male,Groceries,160.5,8,1284.0,2023-05-14,Tuesday,Cash,9.5
+TXN-9117,Accra Mall,Normal,Female,Cosmetics,103.11,2,206.22,2023-04-23,Wednesday,Mobile Money,9.1
+TXN-9431,Kumasi City Mall,Member,Female,Stationery,141.9,6,851.4000000000001,2023-04-28,Monday,Credit Card,5.5
+TXN-1845,Accra Mall,Member,Female,Stationery,64.4,6,386.40000000000003,2023-06-15,Thursday,Mobile Money,7.7
+TXN-4920,Accra Mall,Normal,Male,Groceries,265.45,8,2123.6,2023-05-26,Saturday,Mobile Money,4.7
+TXN-2924,West Hills Mall,Member,Female,Clothing,170.15,2,340.3,2023-01-15,Sunday,Credit Card,5.3
+TXN-8483,West Hills Mall,Normal,Female,Clothing,157.57,5,787.8499999999999,2023-04-08,Thursday,Credit Card,6.5
+TXN-9318,West Hills Mall,Member,Female,Clothing,260.57,5,1302.85,2023-04-11,Sunday,Cash,8.6
+TXN-6654,Kumasi City Mall,Normal,Female,Electronics,252.87,8,2022.96,2023-05-16,Thursday,Credit Card,9.2
+TXN-6213,Kumasi City Mall,Normal,Female,Furniture,262.18,4,1048.72,2023-04-02,Tuesday,Mobile Money,7.4
+TXN-2644,West Hills Mall,Member,Female,Cosmetics,153.65,1,153.65,2023-03-28,Friday,Mobile Money,4.8
+TXN-7512,Kumasi City Mall,Member,Female,Electronics,128.89,3,386.66999999999996,2023-03-11,Sunday,Cash,4.4
+TXN-4846,West Hills Mall,Normal,Female,Electronics,286.7,8,2293.6,2023-05-03,Monday,Credit Card,9.2
+TXN-3725,West Hills Mall,Member,Female,Stationery,135.85,2,271.7,2023-01-15,Saturday,Cash,8.6
+TXN-9702,West Hills Mall,Normal,Male,Groceries,240.88,5,1204.4,2023-02-08,Thursday,Cash,6.2
+TXN-3344,Kumasi City Mall,Member,Male,Furniture,32.9,7,230.29999999999998,2023-04-19,Tuesday,Cash,7.7
+TXN-2210,Accra Mall,Normal,Female,Cosmetics,203.38,8,1627.04,2023-05-06,Saturday,Mobile Money,9.4
+TXN-8916,Kumasi City Mall,Normal,Female,Groceries,210.19,8,1681.52,2023-04-28,Tuesday,Credit Card,9.1
+TXN-5497,Accra Mall,Normal,Female,Clothing,176.7,5,883.5,2023-06-13,Sunday,Credit Card,4.1
+TXN-6772,Accra Mall,Normal,Male,Furniture,251.52,5,1257.6000000000001,2023-05-26,Tuesday,Credit Card,8.7
+TXN-6061,Accra Mall,Normal,Male,Stationery,206.55,3,619.6500000000001,2023-06-02,Saturday,Credit Card,7.8
+TXN-3165,Kumasi City Mall,Member,Female,Electronics,36.14,5,180.7,2023-02-07,Thursday,Credit Card,6.0
+TXN-6549,West Hills Mall,Normal,Female,Groceries,275.07,8,2200.56,2023-06-28,Wednesday,Cash,9.8
+TXN-2479,Accra Mall,Member,Male,Cosmetics,259.44,7,1816.08,2023-05-12,Sunday,Cash,9.8
+TXN-2775,Kumasi City Mall,Member,Female,Electronics,141.89,5,709.4499999999999,2023-06-12,Sunday,Credit Card,7.5
+TXN-5951,West Hills Mall,Normal,Female,Clothing,275.42,4,1101.68,2023-04-23,Saturday,Cash,7.9
+TXN-9807,West Hills Mall,Member,Male,Cosmetics,284.42,5,1422.1000000000001,2023-01-08,Monday,Cash,10.0
+TXN-9017,Accra Mall,Normal,Female,Cosmetics,180.33,3,540.99,2023-01-27,Saturday,Mobile Money,9.3
+TXN-7018,West Hills Mall,Normal,Female,Cosmetics,73.01,8,584.08,2023-03-04,Sunday,Cash,9.7
+TXN-4475,West Hills Mall,Normal,Female,Stationery,90.01,2,180.02,2023-04-03,Sunday,Cash,9.7
+TXN-4394,West Hills Mall,Normal,Male,Stationery,80.63,3,241.89,2023-01-27,Tuesday,Cash,8.7
+TXN-5106,West Hills Mall,Member,Male,Clothing,238.71,1,238.71,2023-02-18,Tuesday,Mobile Money,5.7
+TXN-1858,Accra Mall,Member,Male,Electronics,113.89,4,455.56,2023-02-09,Monday,Cash,7.5
+TXN-2786,Accra Mall,Member,Female,Stationery,226.24,8,1809.92,2023-05-19,Wednesday,Credit Card,6.7
+TXN-7580,Kumasi City Mall,Member,Male,Furniture,220.9,5,1104.5,2023-01-16,Monday,Credit Card,6.7
+TXN-5505,Kumasi City Mall,Normal,Male,Stationery,31.31,2,62.62,2023-01-05,Tuesday,Mobile Money,5.9
+TXN-4522,West Hills Mall,Normal,Female,Stationery,141.58,7,991.0600000000001,2023-01-28,Saturday,Mobile Money,4.6
+TXN-6120,Kumasi City Mall,Normal,Male,Cosmetics,249.95,7,1749.6499999999999,2023-03-14,Monday,Mobile Money,6.5
+TXN-7105,West Hills Mall,Normal,Female,Groceries,29.47,2,58.94,2023-06-24,Monday,Cash,4.6
+TXN-1842,Accra Mall,Normal,Male,Furniture,204.3,7,1430.1000000000001,2023-04-28,Saturday,Credit Card,6.1
+TXN-2773,Kumasi City Mall,Member,Female,Furniture,177.6,4,710.4,2023-02-28,Thursday,Mobile Money,4.9
+TXN-1430,Kumasi City Mall,Normal,Female,Furniture,176.49,7,1235.43,2023-05-20,Sunday,Cash,9.1
+TXN-3347,West Hills Mall,Member,Female,Stationery,89.25,5,446.25,2023-01-06,Wednesday,Cash,9.5
+TXN-7878,West Hills Mall,Member,Female,Stationery,224.88,1,224.88,2023-02-13,Friday,Cash,4.6
+TXN-1815,Kumasi City Mall,Normal,Male,Groceries,219.26,2,438.52,2023-02-25,Tuesday,Mobile Money,9.3
+TXN-6655,West Hills Mall,Normal,Female,Electronics,150.84,8,1206.72,2023-05-04,Tuesday,Mobile Money,6.5
+TXN-1125,Kumasi City Mall,Normal,Female,Electronics,162.81,5,814.05,2023-05-02,Thursday,Credit Card,4.3
+TXN-3116,Accra Mall,Normal,Male,Groceries,93.94,2,187.88,2023-04-06,Saturday,Cash,4.0
+TXN-6129,Kumasi City Mall,Normal,Male,Furniture,30.9,1,30.9,2023-01-28,Thursday,Credit Card,6.6
+TXN-8538,West Hills Mall,Normal,Female,Cosmetics,93.96,7,657.7199999999999,2023-02-26,Wednesday,Credit Card,4.1
+TXN-6562,West Hills Mall,Member,Male,Groceries,80.56,7,563.9200000000001,2023-03-24,Thursday,Mobile Money,7.1
+TXN-3419,Accra Mall,Member,Male,Groceries,163.88,4,655.52,2023-03-24,Wednesday,Cash,9.4
+TXN-9095,Accra Mall,Member,Male,Electronics,60.31,3,180.93,2023-01-06,Saturday,Mobile Money,8.6
+TXN-5961,Kumasi City Mall,Normal,Female,Furniture,260.63,6,1563.78,2023-04-15,Monday,Credit Card,4.9
+TXN-2479,Kumasi City Mall,Member,Male,Furniture,100.02,8,800.16,2023-03-03,Wednesday,Mobile Money,4.2
+TXN-2013,West Hills Mall,Member,Female,Furniture,140.42,4,561.68,2023-05-05,Thursday,Mobile Money,5.9
+TXN-9586,Kumasi City Mall,Member,Female,Electronics,156.32,3,468.96,2023-04-15,Saturday,Credit Card,4.2
+TXN-1857,West Hills Mall,Normal,Male,Furniture,276.2,7,1933.3999999999999,2023-06-20,Wednesday,Mobile Money,6.5
+TXN-3463,West Hills Mall,Normal,Female,Stationery,37.41,7,261.87,2023-06-20,Saturday,Cash,5.7
+TXN-7171,Kumasi City Mall,Normal,Male,Electronics,290.63,7,2034.4099999999999,2023-01-10,Saturday,Mobile Money,4.8
+TXN-3953,West Hills Mall,Member,Male,Groceries,197.35,7,1381.45,2023-03-10,Monday,Credit Card,7.1
+TXN-9843,Accra Mall,Member,Female,Groceries,299.99,3,899.97,2023-01-17,Sunday,Cash,4.5
+TXN-3712,West Hills Mall,Normal,Male,Furniture,264.15,3,792.4499999999999,2023-02-06,Tuesday,Credit Card,7.6
+TXN-8355,West Hills Mall,Normal,Male,Cosmetics,206.15,4,824.6,2023-03-25,Friday,Mobile Money,9.8
+TXN-5616,Accra Mall,Normal,Male,Furniture,272.15,4,1088.6,2023-04-15,Friday,Mobile Money,6.2
+TXN-7081,Kumasi City Mall,Member,Female,Furniture,242.37,3,727.11,2023-06-16,Monday,Cash,9.2
+TXN-8167,West Hills Mall,Member,Male,Electronics,231.3,5,1156.5,2023-02-27,Friday,Mobile Money,6.7
+TXN-7142,Accra Mall,Member,Female,Clothing,130.32,7,912.24,2023-04-03,Tuesday,Mobile Money,7.0
+TXN-3273,Accra Mall,Normal,Female,Electronics,239.5,3,718.5,2023-04-23,Sunday,Cash,4.2
+TXN-9647,West Hills Mall,Member,Female,Cosmetics,272.7,1,272.7,2023-02-18,Sunday,Credit Card,5.5
+TXN-2029,Kumasi City Mall,Normal,Female,Electronics,45.34,4,181.36,2023-05-15,Sunday,Cash,6.5
+TXN-7825,Accra Mall,Member,Male,Cosmetics,218.38,5,1091.9,2023-03-08,Friday,Credit Card,6.6
+TXN-7338,Accra Mall,Normal,Male,Stationery,29.63,1,29.63,2023-01-21,Thursday,Credit Card,6.3
+TXN-1726,Kumasi City Mall,Member,Male,Groceries,109.99,2,219.98,2023-03-05,Saturday,Mobile Money,8.6
+TXN-3209,Kumasi City Mall,Member,Female,Furniture,250.81,8,2006.48,2023-06-06,Thursday,Credit Card,9.9
+TXN-7524,Accra Mall,Normal,Female,Stationery,68.46,4,273.84,2023-03-17,Wednesday,Cash,9.3
+TXN-7029,West Hills Mall,Member,Female,Cosmetics,92.97,1,92.97,2023-03-04,Wednesday,Cash,9.2
+TXN-2353,Kumasi City Mall,Normal,Female,Cosmetics,292.38,8,2339.04,2023-05-09,Wednesday,Mobile Money,8.2
+TXN-6021,West Hills Mall,Member,Male,Cosmetics,168.19,6,1009.14,2023-06-10,Wednesday,Mobile Money,4.6
+TXN-5498,Kumasi City Mall,Normal,Female,Furniture,111.95,1,111.95,2023-05-14,Wednesday,Cash,8.4
+TXN-8179,West Hills Mall,Normal,Male,Electronics,115.36,3,346.08,2023-05-22,Tuesday,Credit Card,9.7
+TXN-7095,Accra Mall,Normal,Male,Clothing,115.02,1,115.02,2023-04-12,Saturday,Cash,7.6
+TXN-4048,Kumasi City Mall,Normal,Male,Electronics,125.43,5,627.1500000000001,2023-01-24,Monday,Credit Card,5.5
+TXN-9047,Kumasi City Mall,Member,Female,Furniture,85.92,5,429.6,2023-05-10,Tuesday,Credit Card,8.2
+TXN-6236,Accra Mall,Normal,Male,Electronics,60.07,8,480.56,2023-06-28,Sunday,Cash,10.0
+TXN-6922,West Hills Mall,Normal,Male,Groceries,268.49,3,805.47,2023-06-06,Saturday,Credit Card,8.3
+TXN-8657,West Hills Mall,Member,Male,Clothing,78.65,8,629.2,2023-05-12,Friday,Cash,4.2
+TXN-2208,West Hills Mall,Normal,Male,Clothing,125.47,8,1003.76,2023-04-27,Sunday,Cash,7.2
+TXN-3981,Accra Mall,Normal,Male,Groceries,207.23,6,1243.3799999999999,2023-05-21,Sunday,Mobile Money,4.8
+TXN-9501,Accra Mall,Member,Male,Cosmetics,98.2,3,294.6,2023-02-12,Saturday,Cash,5.9
+TXN-3762,Kumasi City Mall,Normal,Female,Electronics,46.3,5,231.5,2023-05-21,Monday,Cash,7.7
+TXN-5336,West Hills Mall,Normal,Male,Furniture,254.33,1,254.33,2023-01-02,Monday,Cash,9.0
+TXN-7653,West Hills Mall,Member,Female,Clothing,154.43,5,772.1500000000001,2023-04-08,Wednesday,Credit Card,7.9
+TXN-3353,Kumasi City Mall,Member,Male,Cosmetics,55.84,7,390.88,2023-03-20,Tuesday,Credit Card,6.9
+TXN-6228,Kumasi City Mall,Normal,Female,Stationery,292.86,3,878.58,2023-05-04,Friday,Credit Card,8.6
+TXN-5067,Accra Mall,Normal,Male,Cosmetics,81.9,2,163.8,2023-05-14,Thursday,Mobile Money,4.3
+TXN-2475,Accra Mall,Member,Female,Groceries,154.5,8,1236.0,2023-04-01,Wednesday,Cash,7.0
+TXN-8710,Kumasi City Mall,Member,Female,Furniture,179.17,1,179.17,2023-05-27,Thursday,Cash,4.3
+TXN-1741,Kumasi City Mall,Normal,Male,Furniture,48.84,5,244.20000000000002,2023-04-12,Sunday,Cash,8.4
+TXN-2946,Kumasi City Mall,Normal,Male,Electronics,31.32,8,250.56,2023-05-22,Wednesday,Mobile Money,8.6
+TXN-7576,Accra Mall,Normal,Female,Electronics,171.77,6,1030.6200000000001,2023-05-17,Tuesday,Mobile Money,8.5
+TXN-3290,West Hills Mall,Member,Male,Electronics,216.94,8,1735.52,2023-05-17,Tuesday,Cash,7.1
+TXN-9025,Kumasi City Mall,Normal,Female,Furniture,297.28,5,1486.3999999999999,2023-05-18,Friday,Cash,7.6
+TXN-1436,West Hills Mall,Member,Female,Furniture,116.82,2,233.64,2023-03-26,Friday,Mobile Money,9.9
+TXN-7229,West Hills Mall,Member,Female,Cosmetics,219.21,8,1753.68,2023-06-20,Saturday,Credit Card,5.0
+TXN-4340,Accra Mall,Member,Male,Stationery,65.33,8,522.64,2023-04-23,Tuesday,Cash,5.9
+TXN-7173,Kumasi City Mall,Member,Female,Furniture,214.67,4,858.68,2023-04-17,Saturday,Credit Card,7.4
+TXN-5890,Kumasi City Mall,Normal,Female,Clothing,168.42,5,842.0999999999999,2023-02-09,Tuesday,Credit Card,7.7
+TXN-5480,Accra Mall,Member,Female,Groceries,210.17,8,1681.36,2023-05-26,Wednesday,Credit Card,5.9
+TXN-6674,Kumasi City Mall,Normal,Female,Electronics,286.84,3,860.52,2023-06-03,Wednesday,Mobile Money,5.7
+TXN-2789,Kumasi City Mall,Normal,Female,Stationery,72.06,5,360.3,2023-03-05,Saturday,Credit Card,9.6
+TXN-6411,West Hills Mall,Member,Male,Stationery,204.25,4,817.0,2023-01-14,Monday,Cash,7.8
+TXN-4267,West Hills Mall,Member,Male,Cosmetics,11.5,3,34.5,2023-04-21,Thursday,Credit Card,6.4
+TXN-1611,Kumasi City Mall,Member,Female,Groceries,273.3,2,546.6,2023-05-24,Tuesday,Credit Card,7.9
+TXN-1151,Accra Mall,Normal,Male,Cosmetics,238.51,3,715.53,2023-03-02,Sunday,Cash,9.6
+TXN-5470,Kumasi City Mall,Normal,Male,Furniture,141.76,8,1134.08,2023-05-15,Tuesday,Mobile Money,9.3
+TXN-4164,Accra Mall,Normal,Female,Electronics,198.0,3,594.0,2023-03-19,Wednesday,Cash,4.1
+TXN-5064,Accra Mall,Normal,Female,Furniture,35.15,2,70.3,2023-04-11,Tuesday,Mobile Money,5.1
+TXN-5285,Accra Mall,Normal,Female,Groceries,228.59,6,1371.54,2023-05-01,Saturday,Cash,5.8
+TXN-6095,West Hills Mall,Member,Male,Groceries,144.96,3,434.88,2023-06-25,Friday,Cash,6.4
+TXN-7121,West Hills Mall,Member,Female,Electronics,73.55,3,220.64999999999998,2023-06-20,Thursday,Mobile Money,6.9
+TXN-2279,Kumasi City Mall,Member,Female,Stationery,230.94,2,461.88,2023-06-12,Friday,Credit Card,7.2
+TXN-2904,West Hills Mall,Member,Male,Electronics,176.08,3,528.24,2023-05-15,Sunday,Credit Card,5.0
+TXN-1945,West Hills Mall,Normal,Female,Clothing,244.52,8,1956.16,2023-04-19,Thursday,Cash,4.8
+TXN-7941,West Hills Mall,Member,Female,Cosmetics,124.83,1,124.83,2023-01-02,Friday,Credit Card,8.5
+TXN-7698,Kumasi City Mall,Member,Male,Stationery,281.03,2,562.06,2023-01-10,Thursday,Credit Card,9.9
+TXN-9835,Accra Mall,Normal,Female,Clothing,140.08,7,980.5600000000001,2023-06-28,Saturday,Mobile Money,6.3
+TXN-1056,Accra Mall,Member,Female,Stationery,297.93,7,2085.51,2023-02-27,Saturday,Cash,7.2
+TXN-4088,Accra Mall,Normal,Female,Groceries,164.26,4,657.04,2023-02-09,Wednesday,Credit Card,5.5
+TXN-1550,West Hills Mall,Normal,Male,Electronics,188.33,1,188.33,2023-01-20,Monday,Credit Card,5.4
+TXN-9255,Kumasi City Mall,Member,Male,Furniture,126.66,4,506.64,2023-01-05,Sunday,Cash,7.2
+TXN-5923,Kumasi City Mall,Normal,Female,Clothing,78.7,3,236.10000000000002,2023-02-14,Friday,Credit Card,9.9
+TXN-9592,Kumasi City Mall,Normal,Male,Electronics,171.2,1,171.2,2023-06-13,Saturday,Credit Card,9.8
+TXN-4692,Kumasi City Mall,Member,Female,Stationery,96.97,3,290.90999999999997,2023-02-28,Thursday,Mobile Money,8.5
+TXN-5177,Kumasi City Mall,Member,Male,Stationery,173.09,7,1211.63,2023-04-08,Tuesday,Mobile Money,7.3
+TXN-1647,Accra Mall,Normal,Male,Groceries,36.81,4,147.24,2023-06-20,Thursday,Mobile Money,4.3
+TXN-2922,Accra Mall,Member,Male,Clothing,262.15,6,1572.8999999999999,2023-02-07,Monday,Mobile Money,5.8
+TXN-8639,West Hills Mall,Member,Male,Cosmetics,125.02,4,500.08,2023-03-13,Sunday,Credit Card,7.3
+TXN-6246,West Hills Mall,Normal,Female,Stationery,114.3,8,914.4,2023-06-16,Sunday,Mobile Money,6.8
+TXN-7841,Accra Mall,Member,Female,Groceries,173.13,4,692.52,2023-03-18,Monday,Mobile Money,8.4
+TXN-5216,Kumasi City Mall,Member,Male,Clothing,120.15,4,480.6,2023-06-11,Saturday,Mobile Money,7.0
+TXN-4015,Kumasi City Mall,Member,Female,Stationery,222.5,6,1335.0,2023-05-16,Saturday,Mobile Money,5.0
+TXN-1104,West Hills Mall,Member,Male,Stationery,253.33,2,506.66,2023-01-25,Saturday,Credit Card,9.7
+TXN-8916,Kumasi City Mall,Member,Male,Clothing,12.65,8,101.2,2023-06-22,Friday,Cash,6.2
+TXN-8054,West Hills Mall,Normal,Male,Cosmetics,13.44,5,67.2,2023-01-17,Wednesday,Cash,7.2
+TXN-7112,Accra Mall,Member,Male,Electronics,79.88,5,399.4,2023-04-03,Wednesday,Credit Card,8.9
+TXN-1519,Kumasi City Mall,Member,Male,Cosmetics,96.99,2,193.98,2023-06-25,Sunday,Credit Card,7.9
+TXN-8109,Accra Mall,Normal,Female,Cosmetics,26.27,1,26.27,2023-04-28,Monday,Mobile Money,8.2
+TXN-9897,West Hills Mall,Member,Male,Groceries,76.63,8,613.04,2023-06-09,Monday,Credit Card,5.6
+TXN-7525,West Hills Mall,Normal,Male,Stationery,14.54,4,58.16,2023-06-27,Sunday,Cash,7.5
+TXN-3292,Accra Mall,Member,Male,Groceries,174.34,7,1220.38,2023-03-13,Friday,Credit Card,8.1
+TXN-7499,West Hills Mall,Normal,Male,Stationery,25.57,7,178.99,2023-03-20,Monday,Credit Card,5.4
+TXN-7227,Kumasi City Mall,Normal,Female,Electronics,76.16,7,533.12,2023-05-22,Saturday,Mobile Money,6.6
+TXN-7383,Accra Mall,Member,Female,Furniture,33.79,3,101.37,2023-06-05,Sunday,Cash,6.3
+TXN-2430,Kumasi City Mall,Member,Male,Groceries,283.46,8,2267.68,2023-01-05,Wednesday,Cash,6.2
+TXN-6315,Accra Mall,Normal,Female,Cosmetics,39.95,2,79.9,2023-05-20,Monday,Credit Card,6.1
+TXN-3777,Kumasi City Mall,Normal,Female,Electronics,235.96,4,943.84,2023-06-13,Tuesday,Mobile Money,7.4
+TXN-2260,Accra Mall,Normal,Female,Groceries,52.32,3,156.96,2023-03-16,Thursday,Mobile Money,6.6
+TXN-7483,Kumasi City Mall,Normal,Male,Groceries,182.2,4,728.8,2023-03-01,Tuesday,Credit Card,6.7
+TXN-8848,Kumasi City Mall,Normal,Female,Furniture,107.07,3,321.21,2023-06-07,Friday,Mobile Money,5.8
+TXN-7161,Kumasi City Mall,Normal,Female,Clothing,223.11,8,1784.88,2023-02-11,Sunday,Mobile Money,9.8
+TXN-8563,Kumasi City Mall,Member,Female,Cosmetics,181.75,3,545.25,2023-01-24,Friday,Cash,8.1
+TXN-4965,West Hills Mall,Member,Female,Clothing,247.5,7,1732.5,2023-06-10,Tuesday,Mobile Money,8.0
+TXN-7566,Kumasi City Mall,Normal,Male,Stationery,238.83,2,477.66,2023-04-19,Friday,Credit Card,6.7
+TXN-2392,West Hills Mall,Member,Female,Furniture,239.31,6,1435.8600000000001,2023-05-20,Sunday,Credit Card,8.2
+TXN-1172,Accra Mall,Member,Female,Clothing,173.33,7,1213.3100000000002,2023-04-04,Wednesday,Cash,9.8
+TXN-9199,Accra Mall,Member,Male,Groceries,139.28,7,974.96,2023-05-23,Saturday,Credit Card,6.8
+TXN-6110,Accra Mall,Member,Male,Groceries,95.68,2,191.36,2023-02-12,Saturday,Mobile Money,4.7
+TXN-2100,Kumasi City Mall,Normal,Male,Cosmetics,111.01,2,222.02,2023-04-11,Saturday,Credit Card,6.6
+TXN-3858,Kumasi City Mall,Normal,Male,Electronics,197.91,3,593.73,2023-02-17,Saturday,Cash,9.6
+TXN-8080,West Hills Mall,Normal,Female,Clothing,287.95,4,1151.8,2023-02-06,Saturday,Credit Card,8.8
+TXN-2025,Kumasi City Mall,Normal,Male,Electronics,122.76,4,491.04,2023-06-26,Sunday,Mobile Money,5.2
+TXN-6134,West Hills Mall,Normal,Male,Electronics,67.15,2,134.3,2023-04-17,Sunday,Mobile Money,5.6
+TXN-5873,West Hills Mall,Member,Female,Cosmetics,110.9,8,887.2,2023-06-23,Sunday,Credit Card,7.7
+TXN-3316,West Hills Mall,Member,Male,Furniture,100.82,4,403.28,2023-03-23,Tuesday,Credit Card,5.8
+TXN-3838,West Hills Mall,Member,Female,Cosmetics,176.69,7,1236.83,2023-05-23,Saturday,Credit Card,5.1
+TXN-8939,West Hills Mall,Member,Female,Clothing,64.26,8,514.08,2023-03-01,Sunday,Mobile Money,7.7
+TXN-3740,Accra Mall,Normal,Female,Clothing,128.65,8,1029.2,2023-04-16,Sunday,Credit Card,6.5
+TXN-9115,Accra Mall,Normal,Male,Furniture,19.48,4,77.92,2023-04-19,Tuesday,Cash,7.2
+TXN-8231,West Hills Mall,Member,Male,Furniture,87.69,6,526.14,2023-01-25,Sunday,Credit Card,7.3
+TXN-2923,West Hills Mall,Member,Female,Clothing,96.34,1,96.34,2023-01-15,Wednesday,Cash,6.7
+TXN-1972,Accra Mall,Normal,Female,Clothing,58.13,3,174.39000000000001,2023-02-26,Sunday,Credit Card,8.7
+TXN-2560,West Hills Mall,Member,Female,Groceries,103.86,5,519.3,2023-05-22,Wednesday,Credit Card,5.7
+TXN-5055,Accra Mall,Member,Male,Cosmetics,213.41,3,640.23,2023-03-27,Saturday,Mobile Money,5.5
+TXN-9447,West Hills Mall,Normal,Female,Cosmetics,192.07,7,1344.49,2023-01-13,Saturday,Cash,6.7
+TXN-8511,West Hills Mall,Normal,Female,Groceries,104.91,1,104.91,2023-06-03,Sunday,Mobile Money,9.2
+TXN-5646,West Hills Mall,Normal,Female,Stationery,73.17,7,512.19,2023-03-11,Thursday,Cash,8.9
+TXN-3035,Kumasi City Mall,Normal,Male,Furniture,238.61,1,238.61,2023-04-01,Saturday,Credit Card,4.3
+TXN-5489,Accra Mall,Normal,Female,Cosmetics,68.67,3,206.01,2023-02-28,Wednesday,Cash,9.3
+TXN-4836,Accra Mall,Member,Female,Stationery,117.83,3,353.49,2023-03-24,Saturday,Mobile Money,4.3
+TXN-8291,Kumasi City Mall,Member,Male,Stationery,10.32,8,82.56,2023-02-17,Friday,Credit Card,4.5
+TXN-2678,Accra Mall,Normal,Female,Electronics,211.27,8,1690.16,2023-01-24,Thursday,Cash,4.4
+TXN-9691,Accra Mall,Member,Female,Groceries,120.99,3,362.96999999999997,2023-02-03,Saturday,Mobile Money,7.8
+TXN-4559,West Hills Mall,Normal,Male,Electronics,219.51,3,658.53,2023-06-15,Friday,Mobile Money,9.5
+TXN-2380,Accra Mall,Normal,Male,Electronics,111.95,7,783.65,2023-02-09,Tuesday,Cash,5.9
+TXN-7418,Accra Mall,Member,Female,Furniture,255.89,5,1279.4499999999998,2023-05-07,Friday,Credit Card,5.2
+TXN-1197,Kumasi City Mall,Normal,Male,Stationery,121.91,4,487.64,2023-01-17,Friday,Cash,7.0
+TXN-2106,Kumasi City Mall,Normal,Male,Groceries,115.97,3,347.90999999999997,2023-01-01,Sunday,Mobile Money,8.6
+TXN-7806,Accra Mall,Member,Male,Groceries,285.12,7,1995.8400000000001,2023-06-17,Saturday,Cash,7.0
+TXN-6353,Kumasi City Mall,Member,Female,Stationery,90.47,5,452.35,2023-02-18,Tuesday,Cash,4.5
+TXN-8428,Kumasi City Mall,Normal,Male,Furniture,221.69,4,886.76,2023-04-04,Monday,Mobile Money,4.3
+TXN-9568,West Hills Mall,Member,Male,Furniture,44.64,3,133.92000000000002,2023-04-12,Tuesday,Mobile Money,8.2
+TXN-8034,West Hills Mall,Normal,Female,Stationery,46.81,5,234.05,2023-01-11,Monday,Cash,8.4
+TXN-7024,Kumasi City Mall,Member,Male,Furniture,153.88,6,923.28,2023-05-06,Sunday,Mobile Money,4.3
+TXN-1753,Accra Mall,Member,Male,Groceries,76.24,1,76.24,2023-01-08,Sunday,Credit Card,4.3
+TXN-7870,Kumasi City Mall,Member,Female,Groceries,280.04,1,280.04,2023-06-21,Saturday,Cash,7.3
+TXN-1862,Accra Mall,Normal,Male,Groceries,88.66,2,177.32,2023-05-22,Monday,Mobile Money,7.4
+TXN-8483,Accra Mall,Member,Male,Clothing,264.33,5,1321.6499999999999,2023-03-03,Wednesday,Mobile Money,8.6
+TXN-4201,Accra Mall,Normal,Male,Groceries,224.48,4,897.92,2023-04-25,Friday,Mobile Money,6.8
+TXN-1157,West Hills Mall,Member,Male,Furniture,280.4,1,280.4,2023-06-27,Wednesday,Cash,5.4
+TXN-5584,Kumasi City Mall,Normal,Female,Electronics,40.15,4,160.6,2023-02-23,Monday,Credit Card,6.5
+TXN-2565,Accra Mall,Normal,Male,Electronics,213.25,6,1279.5,2023-01-19,Saturday,Credit Card,6.8
+TXN-7438,West Hills Mall,Member,Female,Clothing,136.15,3,408.45000000000005,2023-03-26,Wednesday,Cash,5.4
+TXN-3546,West Hills Mall,Normal,Female,Stationery,88.87,2,177.74,2023-05-04,Tuesday,Mobile Money,9.7
+TXN-8591,Accra Mall,Normal,Female,Clothing,127.89,6,767.34,2023-04-10,Tuesday,Mobile Money,9.8
+TXN-2494,Kumasi City Mall,Normal,Male,Electronics,249.65,1,249.65,2023-03-05,Sunday,Cash,5.3
+TXN-8408,West Hills Mall,Member,Female,Clothing,206.38,5,1031.9,2023-01-13,Tuesday,Mobile Money,8.9
+TXN-4246,West Hills Mall,Normal,Male,Stationery,39.55,3,118.64999999999999,2023-02-05,Monday,Cash,4.7
+TXN-8265,Kumasi City Mall,Normal,Male,Groceries,276.05,2,552.1,2023-02-21,Monday,Credit Card,4.1
+TXN-7471,Accra Mall,Member,Female,Electronics,283.26,1,283.26,2023-04-27,Friday,Cash,5.0
+TXN-3435,Kumasi City Mall,Normal,Female,Electronics,60.11,4,240.44,2023-03-15,Wednesday,Credit Card,9.4
+TXN-7868,Accra Mall,Normal,Male,Furniture,154.68,8,1237.44,2023-04-05,Wednesday,Credit Card,4.4
+TXN-9231,Accra Mall,Member,Male,Stationery,296.93,6,1781.58,2023-04-12,Sunday,Credit Card,6.9
+TXN-8728,Kumasi City Mall,Member,Female,Cosmetics,102.47,4,409.88,2023-03-02,Sunday,Cash,4.2
+TXN-4594,West Hills Mall,Member,Male,Groceries,81.88,4,327.52,2023-06-02,Sunday,Cash,5.6
