@@ -24,7 +24,7 @@ st.sidebar.divider("---")
 
 # Quick links buttons
 st.sidebar.subheader("🔗 Links & Portfolio")
-st.sidebar.link_button("📂 GitHub Repository", "https://Desmond-dev12/pharmacy-sales-dashboard")
+st.sidebar.link_button("📂 GitHub Repository", "https://github.com/Desmond-dev12/Retail-analysis-web-App/tree/main")
 st.sidebar.link_button("💼 LinkedIn Profile", "https://linkedin.com/in/desmond-pimpong-563899433")
 
 st.sidebar.markdown("---")
