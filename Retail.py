@@ -16,6 +16,22 @@ def load_data(file_path):
 data_folder = r"C:\Users\DELL\Desktop\UCC CODE PROJECTS"
 file_path = os.path.join(data_folder, "retail_store_clean1.csv")
 data = load_data(file_path)
+t.sidebar.title("👨‍💻 Developer Profile")
+st.sidebar.write("*Desmond Pimpong*")
+st.sidebar.caption("Data Analyst &  Developer")
+
+st.sidebar.divider("---")
+
+# Quick links buttons
+st.sidebar.subheader("🔗 Links & Portfolio")
+st.sidebar.link_button("📂 GitHub Repository", "https://Desmond-dev12/pharmacy-sales-dashboard")
+st.sidebar.link_button("💼 LinkedIn Profile", "https://linkedin.com/in/desmond-pimpong-563899433")
+
+st.sidebar.markdown("---")
+
+# Tech stack breakdown
+st.sidebar.subheader("🛠️ Built With")
+st.sidebar.text("• Python 3.10+\n• Streamlit\n• Pandas & Plotly")
 
 # sidebars 
 st.sidebar.header("Filters")
