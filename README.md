@@ -14,6 +14,22 @@ This project analyzes retail transaction data to help businesses understand:
 
 The dashboard is designed to turn raw retail data into actionable business insights using Python, Pandas, Plotly, and Streamlit.
 
+## Sidebar Quick Links and Developer Profile
+
+The dashboard includes a sidebar section with quick access links and profile details to make the app more polished and portfolio-friendly.
+
+### Sidebar Highlights
+
+- Developer profile: Desmond / Data Analyst & Developer
+- GitHub repository link
+- LinkedIn profile link
+- Built With section highlighting the main tech stack used in the project
+
+### Quick Links
+
+- GitHub Repository: https://github.com/Desmond-dev12/Retail-analysis-web-App
+- LinkedIn Profile: https://www.linkedin.com/
+
 ## Features
 
 - interactive sidebar filters for branch, category, customer type, gender, and date range
@@ -31,6 +47,7 @@ The dashboard is designed to turn raw retail data into actionable business insig
 - Streamlit
 - Pandas
 - Plotly
+- Jupyter-friendly data analysis workflow
 
 ## Project Structure
 
