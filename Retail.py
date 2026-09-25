@@ -13,7 +13,7 @@ def load_data(file_path):
     data["Date"] = pd.to_datetime(data["Date"], format="mixed")
 
     return data
-file_path = "retail_store_clean1.csv")
+file_path = "retail_store_clean1.csv"
 data = load_data(file_path)
 st.sidebar.title("👨‍💻 Developer Profile")
 st.sidebar.write("*Desmond Pimpong*")
