@@ -19,7 +19,7 @@ st.sidebar.title("👨‍💻 Developer Profile")
 st.sidebar.write("*Desmond Pimpong*")
 st.sidebar.caption("Data Analyst &  Developer")
 
-st.sidebar.divider("---")
+st.sidebar.divider()
 
 # Quick links buttons
 st.sidebar.subheader("🔗 Links & Portfolio")
