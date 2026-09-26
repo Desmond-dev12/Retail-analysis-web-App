@@ -5,6 +5,19 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(page_title="Retail Sales Analysis Dashboard")
+st.markdown("""
+<style>
+    .header {background-color: #2C3E50;
+    color: #FFFFFF;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+        }
+</style>
+<div class="header">
+     <h1>Pharmacy Sales Analysis</h1>
+     </div>
+     """, unsafe_allow_html=True)
 @st.cache_data
 def load_data(file_path):
     data = pd.read_csv(file_path, encoding= "latin1")
