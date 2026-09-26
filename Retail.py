@@ -15,7 +15,7 @@ st.markdown("""
         }
 </style>
 <div class="header">
-     <h1>Pharmacy Sales Analysis</h1>
+     <h1>Retail Analytics Web App</h1>
      </div>
      """, unsafe_allow_html=True)
 @st.cache_data
