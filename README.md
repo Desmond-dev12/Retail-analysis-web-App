@@ -14,6 +14,14 @@ This project analyzes retail transaction data to help businesses understand:
 
 The dashboard is designed to turn raw retail data into actionable business insights using Python, Pandas, Plotly, and Streamlit.
 
+## 📓 Notebook Companion
+
+This repository also includes a Jupyter notebook for the retail data workflow:
+
+- `Retail_sales.ipynb` — notebook for data exploration, preprocessing, and analysis of the retail sales dataset
+
+You can open the notebook in Jupyter Notebook or Google Colab to inspect the data cleaning and analysis steps behind the dashboard.
+
 ## ✨ Features
 
 - interactive sidebar filters for branch, category, customer type, gender, and date range
@@ -31,10 +39,12 @@ The dashboard is designed to turn raw retail data into actionable business insig
 - Streamlit
 - Pandas
 - Plotly
+- Jupyter Notebook
 
 ## 📁 Project Structure
 
 - `Retail.py` — main dashboard application
+- `Retail_sales.ipynb` — notebook companion for data analysis and exploration
 - `requirements.txt` — project dependencies
 - `README.md` — project documentation
 - `retail_store_clean1.csv` — retail sales dataset used by the dashboard
